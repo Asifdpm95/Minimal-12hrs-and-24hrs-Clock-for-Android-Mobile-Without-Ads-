@@ -1,9 +1,57 @@
+Version 4 (V4)
+
 This is 12hrs and 24hrs time for android mobile widget. 
 This is created for my personal use.
 My Name is Asif Ahamed A from Coimbatore (Tamil Nadu).
 You can contact me +91 7904864882
 Email: asifcloudview@gmail.com
 Thank you
+
+No ads. It's all free. just download and install it.
+
+If you want donate. please gpay or phonepe or paytm to 7904864882
+
+
+
+
+Version 5 (V5)
+
+I’ve added the converter, a time calculator and a 12/24hour chart to Minimal 24 Clock, with a side menu to reach them. 
+This is version 3.0 as Minimal24Clock_v5.apk. It’s signed with the same key as before, so it installs over your current 
+version and keeps your widget and settings. I tested the time reading and conversion on a computer, but I haven’t run the screens on a phone.
+
+Side menu (☰)
+
+🕒 Clock layout: the live preview, time layout, date, alignment and size.
+🔤 Font: builtin fonts, your own font files, and the style.
+🎨 Colour & shadow: light/dark mode, text colours and shadow.
+🔁 12 ⇄ 24 converter
+➕ Time calculator
+📊 12 / 24 chart
+ℹ About: your details now show “Coimbatore, Tamil Nadu, India”.
+
+Converter
+
+Type a time in either style, for example 3:45 PM, 3.45 p.m., 15:45, 1545 or 9 pm.
+It converts to the other style and says which one the answer is in. For example, it tells you “15:45 is 24hour time” and 
+shows the 12hour time too. It also writes the time in words, such as “three fortyfive in the afternoon”.
+“I’m typing” has three choices: Autodetect, 12hour or 24hour. If you type something like 3:45 with no AM or PM, Autodetect 
+can’t tell which style you mean. It then shows both answers instead of guessing.
+Buttons: Now fills in the current time, Copy result copies the answer, and Clear empties the box.
+Bad input gets a plain message, such as “Minutes must be between 00 and 59”.
+
+Time calculator
+
+Add / subtract: for example, 9:30 PM plus 2 hours 45 minutes. The answer is shown in both styles and says whether it lands 
+on the same day, the next day or the previous day. There are quick buttons for 15 min, 30 min, 1 hour and so on.
+Difference: the time between two times, such as 9:30 AM to 5:15 PM, which also works across midnight.
+Add AM or PM for 12hour time. Without it, the time is read as 24hour.
+
+Chart
+
+It shows the current time live in both styles, with short rules for converting each way.
+The chart lists every hour, every 30 minutes or every 15 minutes in the 24hour, 12hour and timeofday columns. The row for the 
+current time is highlighted and the PM rows are lightly shaded. Tap any row to open it in the converter.
 
 No ads. It's all free. just download and install it.
 
